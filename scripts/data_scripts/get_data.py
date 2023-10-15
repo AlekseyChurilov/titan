@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/home/ml1/projectt/env1/bin/python
 
 from catboost.datasets import titanic
 
